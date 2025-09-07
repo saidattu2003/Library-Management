@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Instance Folder
+instance/
+*.sqlite
+*.db
+
+# Environment variables
+.env
+.flaskenv
+
+# IDE settings
+.vscode/
+.idea/
